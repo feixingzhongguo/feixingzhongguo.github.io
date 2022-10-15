@@ -1,11 +1,11 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+title: 飞行中国论坛2.0
+SEOTitle: 飞行中国论坛 | 飞行中国
+header-img: img/banner-shop-1.jpg
+email: flyingchina2.0@protonmail.com
+description: "飞行中国论坛——暗网中文大麻文化交流社区"
+keyword: "哪能买到大麻，在哪买大麻，飞行中国，论坛，园丁丁，weed，机长，燃料，大麻，叶子，飞行员，农夫，种植，thc，草，420，暗网，中文，市场，埋包，极乐，广林，坦克"
+url: "http://feixingzhongguo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
@@ -19,10 +19,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#zhihu_username:     qiubaiying
+#github_username:    qiubaiying
+facebook_username:  flyingchina
+wickr_suername:    flyingchina2.0@protonmail.com
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
